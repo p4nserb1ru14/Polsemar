@@ -1,0 +1,6 @@
+com/example/lm2/IntroPageActivity.java
+ com.example.lm2.IntroPageActivity
+com/example/lm2/MainActivity.java
+ com.example.lm2.MainActivity
+com/example/lm2/BuildConfig.java
+ com.example.lm2.BuildConfig
